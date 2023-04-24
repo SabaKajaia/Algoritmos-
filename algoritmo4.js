@@ -17,4 +17,9 @@ function smashWords(words) {
     }
     return result;
   }
+
+  const words = ["hola", "mundo"];
+const sentence = smashWords(words);
+console.log(sentence); // "hola mundo"
+
   
