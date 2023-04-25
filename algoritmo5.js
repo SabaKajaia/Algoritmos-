@@ -1,4 +1,5 @@
 // Rock Paper Scissors!
+// codewars.com/kata/5672a98bdbdd995fad00000f
 
 function playGame(player1, player2) {
   if (player1 === player2) {
